@@ -1,0 +1,33 @@
+top = '../'
+out = 'build_executavel'
+
+def  hello( ctx ):
+   print('make esta funcionando')
+
+def options(opt):
+   opt.load('compiler_cxx')
+
+def configure(ctx):
+   print('Running: ' + ctx.cmd + ' in ' + ctx.path.abspath() )
+   ctx.load('g++')
+   # ctx.env.append_value('CXXFLAGS', [ '-static', '-L../cpptest/src/cpptestlib', '-lcpptest' ] )
+   # ctx.env.prepend_value('CXXFLAGS', [ '-static', '-L../cpptest/src/cpptestlib', '-lcpptest' ] )
+      
+
+def build(bld):
+   #bld.env.append_value('CXXFLAGS', [ '-static', '-L../cpptest/src/cpptestlib', '-lcpptest' ] )
+   #bld.env.prepend_value('CXXFLAGS', [ '-static', '-L../cpptest/src/cpptestlib', '-lcpptest' ] )
+
+   bld.program(
+      source= '../main_unit_test.cpp ../ExampleTestSuite.cpp', 
+      target='programa', 
+      use='', 
+      lib='cpptest',
+      libpath='../../cpptest/src/cpptestlib',
+      linkflags = '-static'
+      # cxxflags = [ '-static', '-Lcpptest/src/cpptestlib', '-lcpptest' ],   
+      # CXXFLAGS = [ '-static', '-Lcpptest/src/cpptestlib', '-lcpptest' ]    
+   ) 
+      
+
+

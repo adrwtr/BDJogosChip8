@@ -1,0 +1,22 @@
+top = '.'
+out = 'cpptestlib'
+
+def  hello( ctx ):
+   print('make esta funcionando')
+
+def options(opt):
+   opt.load('compiler_cxx')
+
+def configure(ctx):
+   ctx.load('g++')
+   ctx.env.append_value('CXXFLAGS', [ '-g', '-Wall', '-shared']) 
+
+def build(bld):
+   bld.stlib(
+      source='collectoroutput.cpp compileroutput.cpp htmloutput.cpp missing.cpp source.cpp suite.cpp textoutput.cpp time.cpp utils.cpp', 
+      cflags       = ['-fPIC', '-g', '-Wall', '-shared'],
+      CXXFLAGS     = ['-fPIC', '-g', '-Wall', '-shared'],
+
+      target='cpptest', 
+      use=''
+   ) 

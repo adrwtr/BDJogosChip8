@@ -1,0 +1,26 @@
+top = '../'
+out = 'bdjogos_chip8'
+
+def  hello( ctx ):
+   print('make esta funcionando')
+
+def options(opt):
+   opt.load('compiler_cxx')
+
+def configure(ctx):
+   print('Running: ' + ctx.cmd + ' in ' + ctx.path.abspath() )
+   ctx.load('g++')
+      
+
+def build(bld):
+  
+   bld.program(
+      source= '../src/main.cpp ../src/CLerRom.cpp ../src/CChip8Maquina.cpp ../src/CChip8Uteis.cpp', 
+      target='bdjogos_chip8', 
+      use='', 
+      lib=[ 'opengl32', 'glu32' ],
+      libpath='C:\MinGW\lib',
+      linkflags = '-mwindows glut32.dll --enable-stdcall-fixup'
+   ) 
+      
+# - glut32.dll -lopengl32 -lglu32 -L"C:\MinGW\lib" 

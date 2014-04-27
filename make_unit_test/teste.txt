@@ -1,0 +1,10 @@
+g++ -c main.cpp ExampleTestSuite.cpp 
+g++ -o programa.exe main.cpp ExampleTestSuite.cpp classe_teste.cpp -LC:\Adriano\programacao\c\chip8\projeto\cpptest\src\teste_adriano\libprograma_teste.a
+
+
+gcc -shared -Wl,-soname,libcalc.so.1 -o libcalc.so.1.0.1  calc.o
+
+
+g++ -static main.cpp ExampleTestSuite.cpp -Lcpptest/src/teste_adriano -lprograma_teste -o meu_programa3
+
+g++ -o glutt teste_glut.o -mwindows glut32.dll -lopengl32 -lglu32 -L"C:\MinGW\lib" --enable-stdcall-fixup

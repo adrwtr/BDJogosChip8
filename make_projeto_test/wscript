@@ -1,0 +1,27 @@
+top = '../'
+out = 'bdjogos_chip8_test'
+
+def  hello( ctx ):
+   print('make esta funcionando')
+
+def options(opt):
+   opt.load('compiler_cxx')
+
+def configure(ctx):
+   print('Running: ' + ctx.cmd + ' in ' + ctx.path.abspath() )
+   ctx.load('g++')
+      
+
+def build(bld):
+  
+   bld.program(
+      source= '../src_test/main.cpp ../src_test/CLerRomTest.cpp ../src/CLerRom.cpp ../src_test/CChip8MaquinaTest.cpp ../src/CChip8Maquina.cpp', 
+      target='bdjogos_chip8_test', 
+      use='', 
+      lib='cpptest',
+      libpath='../../cpptest/src/cpptestlib',
+      linkflags = '-static'
+   ) 
+      
+
+# - glut32.dll -lopengl32 -lglu32 -L"C:\MinGW\lib" 

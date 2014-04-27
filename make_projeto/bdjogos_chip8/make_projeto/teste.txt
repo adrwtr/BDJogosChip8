@@ -1,0 +1,1998 @@
+Iniciando o programa...
+
+Tentando abrir o arquivo: pong2.c8
+Filesize: 294
+CONTADOR =  512
+Opcode 1: 0x22
+Opcode 2: 0xFC
+Opcode merge: 0x22FC
+0x2NNN: chama uma subrotina em NNN.
+Correto: 0x22FC
+Merge: 0x2FC
+
+
+CONTADOR =  764
+Opcode 1: 0x6B
+Opcode 2: 0x20
+Opcode merge: 0x6B20
+0x6000 seta o valor de VX igual a NN
+V posicao : 0xB
+
+
+CONTADOR =  766
+Opcode 1: 0x6C
+Opcode 2: 0x0
+Opcode merge: 0x6C00
+0x6000 seta o valor de VX igual a NN
+V posicao : 0xC
+
+
+CONTADOR =  768
+Opcode 1: 0xA2
+Opcode 2: 0xF6
+Opcode merge: 0xA2F6
+ANNN: aponta o I para o endereço NNN
+
+
+CONTADOR =  770
+Opcode 1: 0xDB
+Opcode 2: 0xC4
+Opcode merge: 0xDBC4
+DXYN
+posicao da memoria 2F6
+Tela antes: 0
+Tela depois: 1
+Tela antes: 0
+Tela depois: 1
+posicao da memoria 2F7
+Tela antes: 0
+Tela depois: 1
+Tela antes: 0
+Tela depois: 1
+posicao da memoria 2F8
+Tela antes: 0
+Tela depois: 1
+Tela antes: 0
+Tela depois: 1
+posicao da memoria 2F9
+
+
+CONTADOR =  772
+Opcode 1: 0x7C
+Opcode 2: 0x4
+Opcode merge: 0x7C04
+0x7XNN: adiciona o valor de NN a Vx
+.
+
+CONTADOR =  774
+Opcode 1: 0x3C
+Opcode 2: 0x20
+Opcode merge: 0x3C20
+ 0x3000 pula a proxima instrução se VX for igual a NN
+
+
+CONTADOR =  776
+Opcode 1: 0x13
+Opcode 2: 0x2
+Opcode merge: 0x1302
+0x1NNN: pula para o endereço NNN
+
+Endereco 302
+
+
+CONTADOR =  770
+Opcode 1: 0xDB
+Opcode 2: 0xC4
+Opcode merge: 0xDBC4
+DXYN
+posicao da memoria 2F6
+Tela antes: 0
+Tela depois: 1
+Tela antes: 0
+Tela depois: 1
+posicao da memoria 2F7
+Tela antes: 0
+Tela depois: 1
+Tela antes: 0
+Tela depois: 1
+posicao da memoria 2F8
+Tela antes: 0
+Tela depois: 1
+Tela antes: 0
+Tela depois: 1
+posicao da memoria 2F9
+
+
+CONTADOR =  772
+Opcode 1: 0x7C
+Opcode 2: 0x4
+Opcode merge: 0x7C04
+0x7XNN: adiciona o valor de NN a Vx
+.
+
+CONTADOR =  774
+Opcode 1: 0x3C
+Opcode 2: 0x20
+Opcode merge: 0x3C20
+ 0x3000 pula a proxima instrução se VX for igual a NN
+
+
+CONTADOR =  776
+Opcode 1: 0x13
+Opcode 2: 0x2
+Opcode merge: 0x1302
+0x1NNN: pula para o endereço NNN
+
+Endereco 302
+
+
+CONTADOR =  770
+Opcode 1: 0xDB
+Opcode 2: 0xC4
+Opcode merge: 0xDBC4
+DXYN
+posicao da memoria 2F6
+Tela antes: 0
+Tela depois: 1
+Tela antes: 0
+Tela depois: 1
+posicao da memoria 2F7
+Tela antes: 0
+Tela depois: 1
+Tela antes: 0
+Tela depois: 1
+posicao da memoria 2F8
+Tela antes: 0
+Tela depois: 1
+Tela antes: 0
+Tela depois: 1
+posicao da memoria 2F9
+
+
+CONTADOR =  772
+Opcode 1: 0x7C
+Opcode 2: 0x4
+Opcode merge: 0x7C04
+0x7XNN: adiciona o valor de NN a Vx
+.
+
+CONTADOR =  774
+Opcode 1: 0x3C
+Opcode 2: 0x20
+Opcode merge: 0x3C20
+ 0x3000 pula a proxima instrução se VX for igual a NN
+
+
+CONTADOR =  776
+Opcode 1: 0x13
+Opcode 2: 0x2
+Opcode merge: 0x1302
+0x1NNN: pula para o endereço NNN
+
+Endereco 302
+
+
+CONTADOR =  770
+Opcode 1: 0xDB
+Opcode 2: 0xC4
+Opcode merge: 0xDBC4
+DXYN
+posicao da memoria 2F6
+Tela antes: 0
+Tela depois: 1
+Tela antes: 0
+Tela depois: 1
+posicao da memoria 2F7
+Tela antes: 0
+Tela depois: 1
+Tela antes: 0
+Tela depois: 1
+posicao da memoria 2F8
+Tela antes: 0
+Tela depois: 1
+Tela antes: 0
+Tela depois: 1
+posicao da memoria 2F9
+
+
+CONTADOR =  772
+Opcode 1: 0x7C
+Opcode 2: 0x4
+Opcode merge: 0x7C04
+0x7XNN: adiciona o valor de NN a Vx
+.
+
+CONTADOR =  774
+Opcode 1: 0x3C
+Opcode 2: 0x20
+Opcode merge: 0x3C20
+ 0x3000 pula a proxima instrução se VX for igual a NN
+
+
+CONTADOR =  776
+Opcode 1: 0x13
+Opcode 2: 0x2
+Opcode merge: 0x1302
+0x1NNN: pula para o endereço NNN
+
+Endereco 302
+
+
+CONTADOR =  770
+Opcode 1: 0xDB
+Opcode 2: 0xC4
+Opcode merge: 0xDBC4
+DXYN
+posicao da memoria 2F6
+Tela antes: 0
+Tela depois: 1
+Tela antes: 0
+Tela depois: 1
+posicao da memoria 2F7
+Tela antes: 0
+Tela depois: 1
+Tela antes: 0
+Tela depois: 1
+posicao da memoria 2F8
+Tela antes: 0
+Tela depois: 1
+Tela antes: 0
+Tela depois: 1
+posicao da memoria 2F9
+
+
+CONTADOR =  772
+Opcode 1: 0x7C
+Opcode 2: 0x4
+Opcode merge: 0x7C04
+0x7XNN: adiciona o valor de NN a Vx
+.
+
+CONTADOR =  774
+Opcode 1: 0x3C
+Opcode 2: 0x20
+Opcode merge: 0x3C20
+ 0x3000 pula a proxima instrução se VX for igual a NN
+
+
+CONTADOR =  776
+Opcode 1: 0x13
+Opcode 2: 0x2
+Opcode merge: 0x1302
+0x1NNN: pula para o endereço NNN
+
+Endereco 302
+
+
+CONTADOR =  770
+Opcode 1: 0xDB
+Opcode 2: 0xC4
+Opcode merge: 0xDBC4
+DXYN
+posicao da memoria 2F6
+Tela antes: 0
+Tela depois: 1
+Tela antes: 0
+Tela depois: 1
+posicao da memoria 2F7
+Tela antes: 0
+Tela depois: 1
+Tela antes: 0
+Tela depois: 1
+posicao da memoria 2F8
+Tela antes: 0
+Tela depois: 1
+Tela antes: 0
+Tela depois: 1
+posicao da memoria 2F9
+
+
+CONTADOR =  772
+Opcode 1: 0x7C
+Opcode 2: 0x4
+Opcode merge: 0x7C04
+0x7XNN: adiciona o valor de NN a Vx
+.
+
+CONTADOR =  774
+Opcode 1: 0x3C
+Opcode 2: 0x20
+Opcode merge: 0x3C20
+ 0x3000 pula a proxima instrução se VX for igual a NN
+
+
+CONTADOR =  776
+Opcode 1: 0x13
+Opcode 2: 0x2
+Opcode merge: 0x1302
+0x1NNN: pula para o endereço NNN
+
+Endereco 302
+
+
+CONTADOR =  770
+Opcode 1: 0xDB
+Opcode 2: 0xC4
+Opcode merge: 0xDBC4
+DXYN
+posicao da memoria 2F6
+Tela antes: 0
+Tela depois: 1
+Tela antes: 0
+Tela depois: 1
+posicao da memoria 2F7
+Tela antes: 0
+Tela depois: 1
+Tela antes: 0
+Tela depois: 1
+posicao da memoria 2F8
+Tela antes: 0
+Tela depois: 1
+Tela antes: 0
+Tela depois: 1
+posicao da memoria 2F9
+
+
+CONTADOR =  772
+Opcode 1: 0x7C
+Opcode 2: 0x4
+Opcode merge: 0x7C04
+0x7XNN: adiciona o valor de NN a Vx
+.
+
+CONTADOR =  774
+Opcode 1: 0x3C
+Opcode 2: 0x20
+Opcode merge: 0x3C20
+ 0x3000 pula a proxima instrução se VX for igual a NN
+
+
+CONTADOR =  776
+Opcode 1: 0x13
+Opcode 2: 0x2
+Opcode merge: 0x1302
+0x1NNN: pula para o endereço NNN
+
+Endereco 302
+
+
+CONTADOR =  770
+Opcode 1: 0xDB
+Opcode 2: 0xC4
+Opcode merge: 0xDBC4
+DXYN
+posicao da memoria 2F6
+Tela antes: 0
+Tela depois: 1
+Tela antes: 0
+Tela depois: 1
+posicao da memoria 2F7
+Tela antes: 0
+Tela depois: 1
+Tela antes: 0
+Tela depois: 1
+posicao da memoria 2F8
+Tela antes: 0
+Tela depois: 1
+Tela antes: 0
+Tela depois: 1
+posicao da memoria 2F9
+
+
+CONTADOR =  772
+Opcode 1: 0x7C
+Opcode 2: 0x4
+Opcode merge: 0x7C04
+0x7XNN: adiciona o valor de NN a Vx
+.
+
+CONTADOR =  774
+Opcode 1: 0x3C
+Opcode 2: 0x20
+Opcode merge: 0x3C20
+ 0x3000 pula a proxima instrução se VX for igual a NN
+
+
+CONTADOR =  778
+Opcode 1: 0x6A
+Opcode 2: 0x0
+Opcode merge: 0x6A00
+0x6000 seta o valor de VX igual a NN
+V posicao : 0xA
+
+
+CONTADOR =  780
+Opcode 1: 0x6B
+Opcode 2: 0x0
+Opcode merge: 0x6B00
+0x6000 seta o valor de VX igual a NN
+V posicao : 0xB
+
+
+CONTADOR =  782
+Opcode 1: 0x6C
+Opcode 2: 0x1F
+Opcode merge: 0x6C1F
+0x6000 seta o valor de VX igual a NN
+V posicao : 0xC
+
+
+CONTADOR =  784
+Opcode 1: 0xA2
+Opcode 2: 0xFA
+Opcode merge: 0xA2FA
+ANNN: aponta o I para o endereço NNN
+
+
+CONTADOR =  786
+Opcode 1: 0xDA
+Opcode 2: 0xB1
+Opcode merge: 0xDAB1
+DXYN
+posicao da memoria 2FA
+Tela antes: 0
+Tela depois: 1
+Tela antes: 0
+Tela depois: 1
+Tela antes: 0
+Tela depois: 1
+Tela antes: 0
+Tela depois: 1
+Tela antes: 0
+Tela depois: 1
+Tela antes: 0
+Tela depois: 1
+Tela antes: 0
+Tela depois: 1
+Tela antes: 0
+Tela depois: 1
+
+
+CONTADOR =  788
+Opcode 1: 0xDA
+Opcode 2: 0xC1
+Opcode merge: 0xDAC1
+DXYN
+posicao da memoria 2FA
+Tela antes: 0
+Tela depois: 1
+Tela antes: 0
+Tela depois: 1
+Tela antes: 0
+Tela depois: 1
+Tela antes: 0
+Tela depois: 1
+Tela antes: 0
+Tela depois: 1
+Tela antes: 0
+Tela depois: 1
+Tela antes: 0
+Tela depois: 1
+Tela antes: 0
+Tela depois: 1
+
+
+CONTADOR =  790
+Opcode 1: 0x7A
+Opcode 2: 0x8
+Opcode merge: 0x7A08
+0x7XNN: adiciona o valor de NN a Vx
+.
+
+CONTADOR =  792
+Opcode 1: 0x3A
+Opcode 2: 0x40
+Opcode merge: 0x3A40
+ 0x3000 pula a proxima instrução se VX for igual a NN
+
+
+CONTADOR =  794
+Opcode 1: 0x13
+Opcode 2: 0x12
+Opcode merge: 0x1312
+0x1NNN: pula para o endereço NNN
+
+Endereco 312
+
+
+CONTADOR =  786
+Opcode 1: 0xDA
+Opcode 2: 0xB1
+Opcode merge: 0xDAB1
+DXYN
+posicao da memoria 2FA
+Tela antes: 0
+Tela depois: 1
+Tela antes: 0
+Tela depois: 1
+Tela antes: 0
+Tela depois: 1
+Tela antes: 0
+Tela depois: 1
+Tela antes: 0
+Tela depois: 1
+Tela antes: 0
+Tela depois: 1
+Tela antes: 0
+Tela depois: 1
+Tela antes: 0
+Tela depois: 1
+
+
+CONTADOR =  788
+Opcode 1: 0xDA
+Opcode 2: 0xC1
+Opcode merge: 0xDAC1
+DXYN
+posicao da memoria 2FA
+Tela antes: 0
+Tela depois: 1
+Tela antes: 0
+Tela depois: 1
+Tela antes: 0
+Tela depois: 1
+Tela antes: 0
+Tela depois: 1
+Tela antes: 0
+Tela depois: 1
+Tela antes: 0
+Tela depois: 1
+Tela antes: 0
+Tela depois: 1
+Tela antes: 0
+Tela depois: 1
+
+
+CONTADOR =  790
+Opcode 1: 0x7A
+Opcode 2: 0x8
+Opcode merge: 0x7A08
+0x7XNN: adiciona o valor de NN a Vx
+.
+
+CONTADOR =  792
+Opcode 1: 0x3A
+Opcode 2: 0x40
+Opcode merge: 0x3A40
+ 0x3000 pula a proxima instrução se VX for igual a NN
+
+
+CONTADOR =  794
+Opcode 1: 0x13
+Opcode 2: 0x12
+Opcode merge: 0x1312
+0x1NNN: pula para o endereço NNN
+
+Endereco 312
+
+
+CONTADOR =  786
+Opcode 1: 0xDA
+Opcode 2: 0xB1
+Opcode merge: 0xDAB1
+DXYN
+posicao da memoria 2FA
+Tela antes: 0
+Tela depois: 1
+Tela antes: 0
+Tela depois: 1
+Tela antes: 0
+Tela depois: 1
+Tela antes: 0
+Tela depois: 1
+Tela antes: 0
+Tela depois: 1
+Tela antes: 0
+Tela depois: 1
+Tela antes: 0
+Tela depois: 1
+Tela antes: 0
+Tela depois: 1
+
+
+CONTADOR =  788
+Opcode 1: 0xDA
+Opcode 2: 0xC1
+Opcode merge: 0xDAC1
+DXYN
+posicao da memoria 2FA
+Tela antes: 0
+Tela depois: 1
+Tela antes: 0
+Tela depois: 1
+Tela antes: 0
+Tela depois: 1
+Tela antes: 0
+Tela depois: 1
+Tela antes: 0
+Tela depois: 1
+Tela antes: 0
+Tela depois: 1
+Tela antes: 0
+Tela depois: 1
+Tela antes: 0
+Tela depois: 1
+
+
+CONTADOR =  790
+Opcode 1: 0x7A
+Opcode 2: 0x8
+Opcode merge: 0x7A08
+0x7XNN: adiciona o valor de NN a Vx
+.
+
+CONTADOR =  792
+Opcode 1: 0x3A
+Opcode 2: 0x40
+Opcode merge: 0x3A40
+ 0x3000 pula a proxima instrução se VX for igual a NN
+
+
+CONTADOR =  794
+Opcode 1: 0x13
+Opcode 2: 0x12
+Opcode merge: 0x1312
+0x1NNN: pula para o endereço NNN
+
+Endereco 312
+
+
+CONTADOR =  786
+Opcode 1: 0xDA
+Opcode 2: 0xB1
+Opcode merge: 0xDAB1
+DXYN
+posicao da memoria 2FA
+Tela antes: 0
+Tela depois: 1
+Tela antes: 0
+Tela depois: 1
+Tela antes: 0
+Tela depois: 1
+Tela antes: 0
+Tela depois: 1
+Tela antes: 0
+Tela depois: 1
+Tela antes: 0
+Tela depois: 1
+Tela antes: 0
+Tela depois: 1
+Tela antes: 0
+Tela depois: 1
+
+
+CONTADOR =  788
+Opcode 1: 0xDA
+Opcode 2: 0xC1
+Opcode merge: 0xDAC1
+DXYN
+posicao da memoria 2FA
+Tela antes: 0
+Tela depois: 1
+Tela antes: 0
+Tela depois: 1
+Tela antes: 0
+Tela depois: 1
+Tela antes: 0
+Tela depois: 1
+Tela antes: 0
+Tela depois: 1
+Tela antes: 0
+Tela depois: 1
+Tela antes: 0
+Tela depois: 1
+Tela antes: 0
+Tela depois: 1
+
+
+CONTADOR =  790
+Opcode 1: 0x7A
+Opcode 2: 0x8
+Opcode merge: 0x7A08
+0x7XNN: adiciona o valor de NN a Vx
+.
+
+CONTADOR =  792
+Opcode 1: 0x3A
+Opcode 2: 0x40
+Opcode merge: 0x3A40
+ 0x3000 pula a proxima instrução se VX for igual a NN
+
+
+CONTADOR =  794
+Opcode 1: 0x13
+Opcode 2: 0x12
+Opcode merge: 0x1312
+0x1NNN: pula para o endereço NNN
+
+Endereco 312
+
+
+CONTADOR =  786
+Opcode 1: 0xDA
+Opcode 2: 0xB1
+Opcode merge: 0xDAB1
+DXYN
+posicao da memoria 2FA
+Tela antes: 1
+Tela depois: 0
+Tela antes: 1
+Tela depois: 0
+Tela antes: 0
+Tela depois: 1
+Tela antes: 0
+Tela depois: 1
+Tela antes: 0
+Tela depois: 1
+Tela antes: 0
+Tela depois: 1
+Tela antes: 0
+Tela depois: 1
+Tela antes: 0
+Tela depois: 1
+
+
+CONTADOR =  788
+Opcode 1: 0xDA
+Opcode 2: 0xC1
+Opcode merge: 0xDAC1
+DXYN
+posicao da memoria 2FA
+Tela antes: 0
+Tela depois: 1
+Tela antes: 0
+Tela depois: 1
+Tela antes: 0
+Tela depois: 1
+Tela antes: 0
+Tela depois: 1
+Tela antes: 0
+Tela depois: 1
+Tela antes: 0
+Tela depois: 1
+Tela antes: 0
+Tela depois: 1
+Tela antes: 0
+Tela depois: 1
+
+
+CONTADOR =  790
+Opcode 1: 0x7A
+Opcode 2: 0x8
+Opcode merge: 0x7A08
+0x7XNN: adiciona o valor de NN a Vx
+.
+
+CONTADOR =  792
+Opcode 1: 0x3A
+Opcode 2: 0x40
+Opcode merge: 0x3A40
+ 0x3000 pula a proxima instrução se VX for igual a NN
+
+
+CONTADOR =  794
+Opcode 1: 0x13
+Opcode 2: 0x12
+Opcode merge: 0x1312
+0x1NNN: pula para o endereço NNN
+
+Endereco 312
+
+
+CONTADOR =  786
+Opcode 1: 0xDA
+Opcode 2: 0xB1
+Opcode merge: 0xDAB1
+DXYN
+posicao da memoria 2FA
+Tela antes: 0
+Tela depois: 1
+Tela antes: 0
+Tela depois: 1
+Tela antes: 0
+Tela depois: 1
+Tela antes: 0
+Tela depois: 1
+Tela antes: 0
+Tela depois: 1
+Tela antes: 0
+Tela depois: 1
+Tela antes: 0
+Tela depois: 1
+Tela antes: 0
+Tela depois: 1
+
+
+CONTADOR =  788
+Opcode 1: 0xDA
+Opcode 2: 0xC1
+Opcode merge: 0xDAC1
+DXYN
+posicao da memoria 2FA
+Tela antes: 0
+Tela depois: 1
+Tela antes: 0
+Tela depois: 1
+Tela antes: 0
+Tela depois: 1
+Tela antes: 0
+Tela depois: 1
+Tela antes: 0
+Tela depois: 1
+Tela antes: 0
+Tela depois: 1
+Tela antes: 0
+Tela depois: 1
+Tela antes: 0
+Tela depois: 1
+
+
+CONTADOR =  790
+Opcode 1: 0x7A
+Opcode 2: 0x8
+Opcode merge: 0x7A08
+0x7XNN: adiciona o valor de NN a Vx
+.
+
+CONTADOR =  792
+Opcode 1: 0x3A
+Opcode 2: 0x40
+Opcode merge: 0x3A40
+ 0x3000 pula a proxima instrução se VX for igual a NN
+
+
+CONTADOR =  794
+Opcode 1: 0x13
+Opcode 2: 0x12
+Opcode merge: 0x1312
+0x1NNN: pula para o endereço NNN
+
+Endereco 312
+
+
+CONTADOR =  786
+Opcode 1: 0xDA
+Opcode 2: 0xB1
+Opcode merge: 0xDAB1
+DXYN
+posicao da memoria 2FA
+Tela antes: 0
+Tela depois: 1
+Tela antes: 0
+Tela depois: 1
+Tela antes: 0
+Tela depois: 1
+Tela antes: 0
+Tela depois: 1
+Tela antes: 0
+Tela depois: 1
+Tela antes: 0
+Tela depois: 1
+Tela antes: 0
+Tela depois: 1
+Tela antes: 0
+Tela depois: 1
+
+
+CONTADOR =  788
+Opcode 1: 0xDA
+Opcode 2: 0xC1
+Opcode merge: 0xDAC1
+DXYN
+posicao da memoria 2FA
+Tela antes: 0
+Tela depois: 1
+Tela antes: 0
+Tela depois: 1
+Tela antes: 0
+Tela depois: 1
+Tela antes: 0
+Tela depois: 1
+Tela antes: 0
+Tela depois: 1
+Tela antes: 0
+Tela depois: 1
+Tela antes: 0
+Tela depois: 1
+Tela antes: 0
+Tela depois: 1
+
+
+CONTADOR =  790
+Opcode 1: 0x7A
+Opcode 2: 0x8
+Opcode merge: 0x7A08
+0x7XNN: adiciona o valor de NN a Vx
+.
+
+CONTADOR =  792
+Opcode 1: 0x3A
+Opcode 2: 0x40
+Opcode merge: 0x3A40
+ 0x3000 pula a proxima instrução se VX for igual a NN
+
+
+CONTADOR =  794
+Opcode 1: 0x13
+Opcode 2: 0x12
+Opcode merge: 0x1312
+0x1NNN: pula para o endereço NNN
+
+Endereco 312
+
+
+CONTADOR =  786
+Opcode 1: 0xDA
+Opcode 2: 0xB1
+Opcode merge: 0xDAB1
+DXYN
+posicao da memoria 2FA
+Tela antes: 0
+Tela depois: 1
+Tela antes: 0
+Tela depois: 1
+Tela antes: 0
+Tela depois: 1
+Tela antes: 0
+Tela depois: 1
+Tela antes: 0
+Tela depois: 1
+Tela antes: 0
+Tela depois: 1
+Tela antes: 0
+Tela depois: 1
+Tela antes: 0
+Tela depois: 1
+
+
+CONTADOR =  788
+Opcode 1: 0xDA
+Opcode 2: 0xC1
+Opcode merge: 0xDAC1
+DXYN
+posicao da memoria 2FA
+Tela antes: 0
+Tela depois: 1
+Tela antes: 0
+Tela depois: 1
+Tela antes: 0
+Tela depois: 1
+Tela antes: 0
+Tela depois: 1
+Tela antes: 0
+Tela depois: 1
+Tela antes: 0
+Tela depois: 1
+Tela antes: 0
+Tela depois: 1
+Tela antes: 0
+Tela depois: 1
+
+
+CONTADOR =  790
+Opcode 1: 0x7A
+Opcode 2: 0x8
+Opcode merge: 0x7A08
+0x7XNN: adiciona o valor de NN a Vx
+.
+
+CONTADOR =  792
+Opcode 1: 0x3A
+Opcode 2: 0x40
+Opcode merge: 0x3A40
+ 0x3000 pula a proxima instrução se VX for igual a NN
+
+
+CONTADOR =  796
+Opcode 1: 0xA2
+Opcode 2: 0xF6
+Opcode merge: 0xA2F6
+ANNN: aponta o I para o endereço NNN
+
+
+CONTADOR =  798
+Opcode 1: 0x6A
+Opcode 2: 0x0
+Opcode merge: 0x6A00
+0x6000 seta o valor de VX igual a NN
+V posicao : 0xA
+
+
+CONTADOR =  800
+Opcode 1: 0x6B
+Opcode 2: 0x20
+Opcode merge: 0x6B20
+0x6000 seta o valor de VX igual a NN
+V posicao : 0xB
+
+
+CONTADOR =  802
+Opcode 1: 0xDB
+Opcode 2: 0xA1
+Opcode merge: 0xDBA1
+DXYN
+posicao da memoria 2F6
+Tela antes: 0
+Tela depois: 1
+Tela antes: 0
+Tela depois: 1
+
+
+CONTADOR =  804
+Opcode 1: 0x0
+Opcode 2: 0xEE
+Opcode merge: 0xEE
+0x00EE: Retorna da subrotina
+
+
+CONTADOR =  514
+Opcode 1: 0x6B
+Opcode 2: 0xC
+Opcode merge: 0x6B0C
+0x6000 seta o valor de VX igual a NN
+V posicao : 0xB
+
+
+CONTADOR =  516
+Opcode 1: 0x6C
+Opcode 2: 0x3F
+Opcode merge: 0x6C3F
+0x6000 seta o valor de VX igual a NN
+V posicao : 0xC
+
+
+CONTADOR =  518
+Opcode 1: 0x6D
+Opcode 2: 0xC
+Opcode merge: 0x6D0C
+0x6000 seta o valor de VX igual a NN
+V posicao : 0xD
+
+
+CONTADOR =  520
+Opcode 1: 0xA2
+Opcode 2: 0xEA
+Opcode merge: 0xA2EA
+ANNN: aponta o I para o endereço NNN
+
+
+CONTADOR =  522
+Opcode 1: 0xDA
+Opcode 2: 0xB6
+Opcode merge: 0xDAB6
+DXYN
+posicao da memoria 2EA
+Tela antes: 0
+Tela depois: 1
+posicao da memoria 2EB
+Tela antes: 0
+Tela depois: 1
+posicao da memoria 2EC
+Tela antes: 0
+Tela depois: 1
+posicao da memoria 2ED
+Tela antes: 0
+Tela depois: 1
+posicao da memoria 2EE
+Tela antes: 0
+Tela depois: 1
+posicao da memoria 2EF
+Tela antes: 0
+Tela depois: 1
+
+
+CONTADOR =  524
+Opcode 1: 0xDC
+Opcode 2: 0xD6
+Opcode merge: 0xDCD6
+DXYN
+posicao da memoria 2EA
+Tela antes: 0
+Tela depois: 1
+posicao da memoria 2EB
+Tela antes: 0
+Tela depois: 1
+posicao da memoria 2EC
+Tela antes: 0
+Tela depois: 1
+posicao da memoria 2ED
+Tela antes: 0
+Tela depois: 1
+posicao da memoria 2EE
+Tela antes: 0
+Tela depois: 1
+posicao da memoria 2EF
+Tela antes: 0
+Tela depois: 1
+
+
+CONTADOR =  526
+Opcode 1: 0x6E
+Opcode 2: 0x0
+Opcode merge: 0x6E00
+0x6000 seta o valor de VX igual a NN
+V posicao : 0xE
+
+
+CONTADOR =  528
+Opcode 1: 0x22
+Opcode 2: 0xD4
+Opcode merge: 0x22D4
+0x2NNN: chama uma subrotina em NNN.
+Correto: 0x22D4
+Merge: 0x2D4
+
+
+CONTADOR =  724
+Opcode 1: 0xA2
+Opcode 2: 0xF2
+Opcode merge: 0xA2F2
+ANNN: aponta o I para o endereço NNN
+
+
+CONTADOR =  726
+Opcode 1: 0xFE
+Opcode 2: 0x33
+Opcode merge: 0xFE33
+// FX33: Stores the Binary-coded decimal representation of VX at the addresses I, I plus 1, and I plus 2
+
+
+CONTADOR =  728
+Opcode 1: 0xF2
+Opcode 2: 0x65
+Opcode merge: 0xF265
+// FX65: Fills V0 to VX with values from memory starting at address I              
+
+
+CONTADOR =  730
+Opcode 1: 0xF1
+Opcode 2: 0x29
+Opcode merge: 0xF129
+// FX29: Sets I to the location of the sprite for the character in VX. Characters 0-F (in hexadecimal) are represented by a 4x5 font
+
+
+CONTADOR =  732
+Opcode 1: 0x64
+Opcode 2: 0x14
+Opcode merge: 0x6414
+0x6000 seta o valor de VX igual a NN
+V posicao : 0x4
+
+
+CONTADOR =  734
+Opcode 1: 0x65
+Opcode 2: 0x2
+Opcode merge: 0x6502
+0x6000 seta o valor de VX igual a NN
+V posicao : 0x5
+
+
+CONTADOR =  736
+Opcode 1: 0xD4
+Opcode 2: 0x55
+Opcode merge: 0xD455
+DXYN
+posicao da memoria 0
+Tela antes: 0
+Tela depois: 1
+Tela antes: 0
+Tela depois: 1
+Tela antes: 0
+Tela depois: 1
+Tela antes: 0
+Tela depois: 1
+posicao da memoria 1
+Tela antes: 0
+Tela depois: 1
+Tela antes: 0
+Tela depois: 1
+posicao da memoria 2
+Tela antes: 0
+Tela depois: 1
+Tela antes: 0
+Tela depois: 1
+posicao da memoria 3
+Tela antes: 0
+Tela depois: 1
+Tela antes: 0
+Tela depois: 1
+posicao da memoria 4
+Tela antes: 0
+Tela depois: 1
+Tela antes: 0
+Tela depois: 1
+Tela antes: 0
+Tela depois: 1
+Tela antes: 0
+Tela depois: 1
+
+
+CONTADOR =  738
+Opcode 1: 0x74
+Opcode 2: 0x15
+Opcode merge: 0x7415
+0x7XNN: adiciona o valor de NN a Vx
+.
+
+CONTADOR =  740
+Opcode 1: 0xF2
+Opcode 2: 0x29
+Opcode merge: 0xF229
+// FX29: Sets I to the location of the sprite for the character in VX. Characters 0-F (in hexadecimal) are represented by a 4x5 font
+
+
+CONTADOR =  742
+Opcode 1: 0xD4
+Opcode 2: 0x55
+Opcode merge: 0xD455
+DXYN
+posicao da memoria 0
+Tela antes: 0
+Tela depois: 1
+Tela antes: 0
+Tela depois: 1
+Tela antes: 0
+Tela depois: 1
+Tela antes: 0
+Tela depois: 1
+posicao da memoria 1
+Tela antes: 0
+Tela depois: 1
+Tela antes: 0
+Tela depois: 1
+posicao da memoria 2
+Tela antes: 0
+Tela depois: 1
+Tela antes: 0
+Tela depois: 1
+posicao da memoria 3
+Tela antes: 0
+Tela depois: 1
+Tela antes: 0
+Tela depois: 1
+posicao da memoria 4
+Tela antes: 0
+Tela depois: 1
+Tela antes: 0
+Tela depois: 1
+Tela antes: 0
+Tela depois: 1
+Tela antes: 0
+Tela depois: 1
+
+
+CONTADOR =  744
+Opcode 1: 0x0
+Opcode 2: 0xEE
+Opcode merge: 0xEE
+0x00EE: Retorna da subrotina
+
+
+CONTADOR =  530
+Opcode 1: 0x66
+Opcode 2: 0x3
+Opcode merge: 0x6603
+0x6000 seta o valor de VX igual a NN
+V posicao : 0x6
+
+
+CONTADOR =  532
+Opcode 1: 0x68
+Opcode 2: 0x2
+Opcode merge: 0x6802
+0x6000 seta o valor de VX igual a NN
+V posicao : 0x8
+
+
+CONTADOR =  534
+Opcode 1: 0x60
+Opcode 2: 0x60
+Opcode merge: 0x6060
+0x6000 seta o valor de VX igual a NN
+V posicao : 0x0
+
+
+CONTADOR =  536
+Opcode 1: 0xF0
+Opcode 2: 0x15
+Opcode merge: 0xF015
+// FX15: Sets the delay timer to VX
+
+
+CONTADOR =  538
+Opcode 1: 0xF0
+Opcode 2: 0x7
+Opcode merge: 0xF007
+// FX07: seta o VX com o valor do timer DELAY
+
+
+CONTADOR =  540
+Opcode 1: 0x30
+Opcode 2: 0x0
+Opcode merge: 0x3000
+ 0x3000 pula a proxima instrução se VX for igual a NN
+
+
+CONTADOR =  542
+Opcode 1: 0x12
+Opcode 2: 0x1A
+Opcode merge: 0x121A
+0x1NNN: pula para o endereço NNN
+
+Endereco 21a
+
+
+CONTADOR =  538
+Opcode 1: 0xF0
+Opcode 2: 0x7
+Opcode merge: 0xF007
+// FX07: seta o VX com o valor do timer DELAY
+
+
+CONTADOR =  540
+Opcode 1: 0x30
+Opcode 2: 0x0
+Opcode merge: 0x3000
+ 0x3000 pula a proxima instrução se VX for igual a NN
+
+
+CONTADOR =  542
+Opcode 1: 0x12
+Opcode 2: 0x1A
+Opcode merge: 0x121A
+0x1NNN: pula para o endereço NNN
+
+Endereco 21a
+
+
+CONTADOR =  538
+Opcode 1: 0xF0
+Opcode 2: 0x7
+Opcode merge: 0xF007
+// FX07: seta o VX com o valor do timer DELAY
+
+
+CONTADOR =  540
+Opcode 1: 0x30
+Opcode 2: 0x0
+Opcode merge: 0x3000
+ 0x3000 pula a proxima instrução se VX for igual a NN
+
+
+CONTADOR =  542
+Opcode 1: 0x12
+Opcode 2: 0x1A
+Opcode merge: 0x121A
+0x1NNN: pula para o endereço NNN
+
+Endereco 21a
+
+
+CONTADOR =  538
+Opcode 1: 0xF0
+Opcode 2: 0x7
+Opcode merge: 0xF007
+// FX07: seta o VX com o valor do timer DELAY
+
+
+CONTADOR =  540
+Opcode 1: 0x30
+Opcode 2: 0x0
+Opcode merge: 0x3000
+ 0x3000 pula a proxima instrução se VX for igual a NN
+
+
+CONTADOR =  542
+Opcode 1: 0x12
+Opcode 2: 0x1A
+Opcode merge: 0x121A
+0x1NNN: pula para o endereço NNN
+
+Endereco 21a
+
+
+CONTADOR =  538
+Opcode 1: 0xF0
+Opcode 2: 0x7
+Opcode merge: 0xF007
+// FX07: seta o VX com o valor do timer DELAY
+
+
+CONTADOR =  540
+Opcode 1: 0x30
+Opcode 2: 0x0
+Opcode merge: 0x3000
+ 0x3000 pula a proxima instrução se VX for igual a NN
+
+
+CONTADOR =  542
+Opcode 1: 0x12
+Opcode 2: 0x1A
+Opcode merge: 0x121A
+0x1NNN: pula para o endereço NNN
+
+Endereco 21a
+
+
+CONTADOR =  538
+Opcode 1: 0xF0
+Opcode 2: 0x7
+Opcode merge: 0xF007
+// FX07: seta o VX com o valor do timer DELAY
+
+
+CONTADOR =  540
+Opcode 1: 0x30
+Opcode 2: 0x0
+Opcode merge: 0x3000
+ 0x3000 pula a proxima instrução se VX for igual a NN
+
+
+CONTADOR =  542
+Opcode 1: 0x12
+Opcode 2: 0x1A
+Opcode merge: 0x121A
+0x1NNN: pula para o endereço NNN
+
+Endereco 21a
+
+
+CONTADOR =  538
+Opcode 1: 0xF0
+Opcode 2: 0x7
+Opcode merge: 0xF007
+// FX07: seta o VX com o valor do timer DELAY
+
+
+CONTADOR =  540
+Opcode 1: 0x30
+Opcode 2: 0x0
+Opcode merge: 0x3000
+ 0x3000 pula a proxima instrução se VX for igual a NN
+
+
+CONTADOR =  542
+Opcode 1: 0x12
+Opcode 2: 0x1A
+Opcode merge: 0x121A
+0x1NNN: pula para o endereço NNN
+
+Endereco 21a
+
+
+CONTADOR =  538
+Opcode 1: 0xF0
+Opcode 2: 0x7
+Opcode merge: 0xF007
+// FX07: seta o VX com o valor do timer DELAY
+
+
+CONTADOR =  540
+Opcode 1: 0x30
+Opcode 2: 0x0
+Opcode merge: 0x3000
+ 0x3000 pula a proxima instrução se VX for igual a NN
+
+
+CONTADOR =  542
+Opcode 1: 0x12
+Opcode 2: 0x1A
+Opcode merge: 0x121A
+0x1NNN: pula para o endereço NNN
+
+Endereco 21a
+
+
+CONTADOR =  538
+Opcode 1: 0xF0
+Opcode 2: 0x7
+Opcode merge: 0xF007
+// FX07: seta o VX com o valor do timer DELAY
+
+
+CONTADOR =  540
+Opcode 1: 0x30
+Opcode 2: 0x0
+Opcode merge: 0x3000
+ 0x3000 pula a proxima instrução se VX for igual a NN
+
+
+CONTADOR =  542
+Opcode 1: 0x12
+Opcode 2: 0x1A
+Opcode merge: 0x121A
+0x1NNN: pula para o endereço NNN
+
+Endereco 21a
+
+
+CONTADOR =  538
+Opcode 1: 0xF0
+Opcode 2: 0x7
+Opcode merge: 0xF007
+// FX07: seta o VX com o valor do timer DELAY
+
+
+CONTADOR =  540
+Opcode 1: 0x30
+Opcode 2: 0x0
+Opcode merge: 0x3000
+ 0x3000 pula a proxima instrução se VX for igual a NN
+
+
+CONTADOR =  542
+Opcode 1: 0x12
+Opcode 2: 0x1A
+Opcode merge: 0x121A
+0x1NNN: pula para o endereço NNN
+
+Endereco 21a
+
+
+CONTADOR =  538
+Opcode 1: 0xF0
+Opcode 2: 0x7
+Opcode merge: 0xF007
+// FX07: seta o VX com o valor do timer DELAY
+
+
+CONTADOR =  540
+Opcode 1: 0x30
+Opcode 2: 0x0
+Opcode merge: 0x3000
+ 0x3000 pula a proxima instrução se VX for igual a NN
+
+
+CONTADOR =  542
+Opcode 1: 0x12
+Opcode 2: 0x1A
+Opcode merge: 0x121A
+0x1NNN: pula para o endereço NNN
+
+Endereco 21a
+
+
+CONTADOR =  538
+Opcode 1: 0xF0
+Opcode 2: 0x7
+Opcode merge: 0xF007
+// FX07: seta o VX com o valor do timer DELAY
+
+
+CONTADOR =  540
+Opcode 1: 0x30
+Opcode 2: 0x0
+Opcode merge: 0x3000
+ 0x3000 pula a proxima instrução se VX for igual a NN
+
+
+CONTADOR =  542
+Opcode 1: 0x12
+Opcode 2: 0x1A
+Opcode merge: 0x121A
+0x1NNN: pula para o endereço NNN
+
+Endereco 21a
+
+
+CONTADOR =  538
+Opcode 1: 0xF0
+Opcode 2: 0x7
+Opcode merge: 0xF007
+// FX07: seta o VX com o valor do timer DELAY
+
+
+CONTADOR =  540
+Opcode 1: 0x30
+Opcode 2: 0x0
+Opcode merge: 0x3000
+ 0x3000 pula a proxima instrução se VX for igual a NN
+
+
+CONTADOR =  542
+Opcode 1: 0x12
+Opcode 2: 0x1A
+Opcode merge: 0x121A
+0x1NNN: pula para o endereço NNN
+
+Endereco 21a
+
+
+CONTADOR =  538
+Opcode 1: 0xF0
+Opcode 2: 0x7
+Opcode merge: 0xF007
+// FX07: seta o VX com o valor do timer DELAY
+
+
+CONTADOR =  540
+Opcode 1: 0x30
+Opcode 2: 0x0
+Opcode merge: 0x3000
+ 0x3000 pula a proxima instrução se VX for igual a NN
+
+
+CONTADOR =  542
+Opcode 1: 0x12
+Opcode 2: 0x1A
+Opcode merge: 0x121A
+0x1NNN: pula para o endereço NNN
+
+Endereco 21a
+
+
+CONTADOR =  538
+Opcode 1: 0xF0
+Opcode 2: 0x7
+Opcode merge: 0xF007
+// FX07: seta o VX com o valor do timer DELAY
+
+
+CONTADOR =  540
+Opcode 1: 0x30
+Opcode 2: 0x0
+Opcode merge: 0x3000
+ 0x3000 pula a proxima instrução se VX for igual a NN
+
+
+CONTADOR =  542
+Opcode 1: 0x12
+Opcode 2: 0x1A
+Opcode merge: 0x121A
+0x1NNN: pula para o endereço NNN
+
+Endereco 21a
+
+
+CONTADOR =  538
+Opcode 1: 0xF0
+Opcode 2: 0x7
+Opcode merge: 0xF007
+// FX07: seta o VX com o valor do timer DELAY
+
+
+CONTADOR =  540
+Opcode 1: 0x30
+Opcode 2: 0x0
+Opcode merge: 0x3000
+ 0x3000 pula a proxima instrução se VX for igual a NN
+
+
+CONTADOR =  542
+Opcode 1: 0x12
+Opcode 2: 0x1A
+Opcode merge: 0x121A
+0x1NNN: pula para o endereço NNN
+
+Endereco 21a
+
+
+CONTADOR =  538
+Opcode 1: 0xF0
+Opcode 2: 0x7
+Opcode merge: 0xF007
+// FX07: seta o VX com o valor do timer DELAY
+
+
+CONTADOR =  540
+Opcode 1: 0x30
+Opcode 2: 0x0
+Opcode merge: 0x3000
+ 0x3000 pula a proxima instrução se VX for igual a NN
+
+
+CONTADOR =  542
+Opcode 1: 0x12
+Opcode 2: 0x1A
+Opcode merge: 0x121A
+0x1NNN: pula para o endereço NNN
+
+Endereco 21a
+
+
+CONTADOR =  538
+Opcode 1: 0xF0
+Opcode 2: 0x7
+Opcode merge: 0xF007
+// FX07: seta o VX com o valor do timer DELAY
+
+
+CONTADOR =  540
+Opcode 1: 0x30
+Opcode 2: 0x0
+Opcode merge: 0x3000
+ 0x3000 pula a proxima instrução se VX for igual a NN
+
+
+CONTADOR =  542
+Opcode 1: 0x12
+Opcode 2: 0x1A
+Opcode merge: 0x121A
+0x1NNN: pula para o endereço NNN
+
+Endereco 21a
+
+
+CONTADOR =  538
+Opcode 1: 0xF0
+Opcode 2: 0x7
+Opcode merge: 0xF007
+// FX07: seta o VX com o valor do timer DELAY
+
+
+CONTADOR =  540
+Opcode 1: 0x30
+Opcode 2: 0x0
+Opcode merge: 0x3000
+ 0x3000 pula a proxima instrução se VX for igual a NN
+
+
+CONTADOR =  542
+Opcode 1: 0x12
+Opcode 2: 0x1A
+Opcode merge: 0x121A
+0x1NNN: pula para o endereço NNN
+
+Endereco 21a
+
+
+CONTADOR =  538
+Opcode 1: 0xF0
+Opcode 2: 0x7
+Opcode merge: 0xF007
+// FX07: seta o VX com o valor do timer DELAY
+
+
+CONTADOR =  540
+Opcode 1: 0x30
+Opcode 2: 0x0
+Opcode merge: 0x3000
+ 0x3000 pula a proxima instrução se VX for igual a NN
+
+
+CONTADOR =  542
+Opcode 1: 0x12
+Opcode 2: 0x1A
+Opcode merge: 0x121A
+0x1NNN: pula para o endereço NNN
+
+Endereco 21a
+
+
+CONTADOR =  538
+Opcode 1: 0xF0
+Opcode 2: 0x7
+Opcode merge: 0xF007
+// FX07: seta o VX com o valor do timer DELAY
+
+
+CONTADOR =  540
+Opcode 1: 0x30
+Opcode 2: 0x0
+Opcode merge: 0x3000
+ 0x3000 pula a proxima instrução se VX for igual a NN
+
+
+CONTADOR =  542
+Opcode 1: 0x12
+Opcode 2: 0x1A
+Opcode merge: 0x121A
+0x1NNN: pula para o endereço NNN
+
+Endereco 21a
+
+
+CONTADOR =  538
+Opcode 1: 0xF0
+Opcode 2: 0x7
+Opcode merge: 0xF007
+// FX07: seta o VX com o valor do timer DELAY
+
+
+CONTADOR =  540
+Opcode 1: 0x30
+Opcode 2: 0x0
+Opcode merge: 0x3000
+ 0x3000 pula a proxima instrução se VX for igual a NN
+
+
+CONTADOR =  542
+Opcode 1: 0x12
+Opcode 2: 0x1A
+Opcode merge: 0x121A
+0x1NNN: pula para o endereço NNN
+
+Endereco 21a
+
+
+CONTADOR =  538
+Opcode 1: 0xF0
+Opcode 2: 0x7
+Opcode merge: 0xF007
+// FX07: seta o VX com o valor do timer DELAY
+
+
+CONTADOR =  540
+Opcode 1: 0x30
+Opcode 2: 0x0
+Opcode merge: 0x3000
+ 0x3000 pula a proxima instrução se VX for igual a NN
+
+
+CONTADOR =  542
+Opcode 1: 0x12
+Opcode 2: 0x1A
+Opcode merge: 0x121A
+0x1NNN: pula para o endereço NNN
+
+Endereco 21a
+
+
+CONTADOR =  538
+Opcode 1: 0xF0
+Opcode 2: 0x7
+Opcode merge: 0xF007
+// FX07: seta o VX com o valor do timer DELAY
+
+
+CONTADOR =  540
+Opcode 1: 0x30
+Opcode 2: 0x0
+Opcode merge: 0x3000
+ 0x3000 pula a proxima instrução se VX for igual a NN
+
+
+CONTADOR =  542
+Opcode 1: 0x12
+Opcode 2: 0x1A
+Opcode merge: 0x121A
+0x1NNN: pula para o endereço NNN
+
+Endereco 21a
+
+
+CONTADOR =  538
+Opcode 1: 0xF0
+Opcode 2: 0x7
+Opcode merge: 0xF007
+// FX07: seta o VX com o valor do timer DELAY
+
+
+CONTADOR =  540
+Opcode 1: 0x30
+Opcode 2: 0x0
+Opcode merge: 0x3000
+ 0x3000 pula a proxima instrução se VX for igual a NN
+
+
+CONTADOR =  542
+Opcode 1: 0x12
+Opcode 2: 0x1A
+Opcode merge: 0x121A
+0x1NNN: pula para o endereço NNN
+
+Endereco 21a
+
+
+CONTADOR =  538
+Opcode 1: 0xF0
+Opcode 2: 0x7
+Opcode merge: 0xF007
+// FX07: seta o VX com o valor do timer DELAY
+
+
+CONTADOR =  540
+Opcode 1: 0x30
+Opcode 2: 0x0
+Opcode merge: 0x3000
+ 0x3000 pula a proxima instrução se VX for igual a NN
+
+
+CONTADOR =  542
+Opcode 1: 0x12
+Opcode 2: 0x1A
+Opcode merge: 0x121A
+0x1NNN: pula para o endereço NNN
+
+Endereco 21a
+
+
+CONTADOR =  538
+Opcode 1: 0xF0
+Opcode 2: 0x7
+Opcode merge: 0xF007
+// FX07: seta o VX com o valor do timer DELAY
+
+
+CONTADOR =  540
+Opcode 1: 0x30
+Opcode 2: 0x0
+Opcode merge: 0x3000
+ 0x3000 pula a proxima instrução se VX for igual a NN
+
+
+CONTADOR =  542
+Opcode 1: 0x12
+Opcode 2: 0x1A
+Opcode merge: 0x121A
+0x1NNN: pula para o endereço NNN
+
+Endereco 21a
+
+
+CONTADOR =  538
+Opcode 1: 0xF0
+Opcode 2: 0x7
+Opcode merge: 0xF007
+// FX07: seta o VX com o valor do timer DELAY
+
+
+CONTADOR =  540
+Opcode 1: 0x30
+Opcode 2: 0x0
+Opcode merge: 0x3000
+ 0x3000 pula a proxima instrução se VX for igual a NN
+
+
+CONTADOR =  542
+Opcode 1: 0x12
+Opcode 2: 0x1A
+Opcode merge: 0x121A
+0x1NNN: pula para o endereço NNN
+
+Endereco 21a
+
+
+CONTADOR =  538
+Opcode 1: 0xF0
+Opcode 2: 0x7
+Opcode merge: 0xF007
+// FX07: seta o VX com o valor do timer DELAY
+
+
+CONTADOR =  540
+Opcode 1: 0x30
+Opcode 2: 0x0
+Opcode merge: 0x3000
+ 0x3000 pula a proxima instrução se VX for igual a NN
+
+
+CONTADOR =  542
+Opcode 1: 0x12
+Opcode 2: 0x1A
+Opcode merge: 0x121A
+0x1NNN: pula para o endereço NNN
+
+Endereco 21a
+
+
+CONTADOR =  538
+Opcode 1: 0xF0
+Opcode 2: 0x7
+Opcode merge: 0xF007
+// FX07: seta o VX com o valor do timer DELAY
+
+
+CONTADOR =  540
+Opcode 1: 0x30
+Opcode 2: 0x0
+Opcode merge: 0x3000
+ 0x3000 pula a proxima instrução se VX for igual a NN
+
+
+CONTADOR =  542
+Opcode 1: 0x12
+Opcode 2: 0x1A
+Opcode merge: 0x121A
+0x1NNN: pula para o endereço NNN
+
+Endereco 21a
+
+
+CONTADOR =  538
+Opcode 1: 0xF0
+Opcode 2: 0x7
+Opcode merge: 0xF007
+// FX07: seta o VX com o valor do timer DELAY
+
+

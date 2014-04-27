@@ -1,0 +1,10 @@
+Iniciando o programa...
+
+Tentando abrir o arquivo: jogo.txt
+Filesize: 319
+CONTADOR =  512
+Opcode 1: 0x30
+Opcode 2: 0x30
+Opcode merge: 0x3030
+aqui 2
+aqui
