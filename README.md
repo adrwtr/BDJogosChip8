@@ -5,8 +5,11 @@ Construção de um emulador de máquina CHIP8 em C++ para aprendizado.
 
 
 Autor  	         : Adriano Waltrick
+
 Contato		      : akuma.majunia @ Google mail
+
 Data de criação	: 27/04/2014
+
 
 1 - O que é este projeto?
 
